@@ -21,8 +21,6 @@
 
 ## ⚙️ Installation Guide
 
-## Follow these steps to run the project locally 👇
-
 ### Clone the repository
 
 `git clone https://github.com/obaid-ansari/movix.git`
