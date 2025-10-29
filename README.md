@@ -1,6 +1,6 @@
 # 🎬 Movie Finder Website
 
-## - A responsive and interactive web application built with React.js that allows users to search for movies, view detailed information, and save their favorite titles — all powered by the OMDb API.
+### A responsive and interactive web application built with React.js that allows users to search for movies, view detailed information, and save their favorite titles — all powered by the OMDb API.
 
 ## 🚀 Features
 
